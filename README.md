@@ -1,5 +1,10 @@
 l# Object Oriented Scraping
 
+
+
+# Object Oriented Scraping
+
+
 ## Objectives
 
 1. Scrape a web page's HTML using Nokogiri.
